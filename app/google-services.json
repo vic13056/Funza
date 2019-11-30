@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411084610833",
+    "firebase_url": "https://funza-42652.firebaseio.com",
+    "project_id": "funza-42652",
+    "storage_bucket": "funza-42652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411084610833:android:84e4c93ccd289f8ede40b0",
+        "android_client_info": {
+          "package_name": "com.example.funza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411084610833-b8ljdvndrunkbac47cqgturfvfvbf8v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funza",
+            "certificate_hash": "913cdbdaf19b2a9b2772008572c4ba9c59ff1465"
+          }
+        },
+        {
+          "client_id": "411084610833-ifauvoprqhd5o1s3rjuufk7o4bfn9kcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1t_n5RrdCe60CqiNhja4mI0YpWxi_PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411084610833-ifauvoprqhd5o1s3rjuufk7o4bfn9kcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
